@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_Home"
+        android:icon="@drawable/ic_home"
+        android:tint="@color/colorBar"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_Reservation"
+        android:icon="@drawable/ic_reservations"
+        android:tint="@color/colorBar"
+        android:title="Reservations" />
+
+
+    <item
+        android:id="@+id/nav_Favourites"
+        android:icon="@drawable/ic_favorite_blue"
+        android:tint="@color/colorBar"
+        android:title="Favourites" />
+
+
+
+
+</menu>
